@@ -6,3 +6,5 @@
 ||tw.game-game.com^
 ||yp3d.com^
 ||scratch.mit.edu^
+||gamecoast.net^
+||cn.game-game.com^
