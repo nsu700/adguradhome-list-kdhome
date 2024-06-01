@@ -16,4 +16,4 @@
 ||poki.com^
 ||emolingo.games^
 ||poki.io^
-
+||example.com^
