@@ -1,5 +1,5 @@
 ! Title: Block game list for kdhome
-! Date: 2024-03-24
+! Date: 2024-06-01
 
 ||cargames.com^
 ||yad.com^
@@ -13,3 +13,7 @@
 ||kizgame.com^
 ||gamemonetize.com^
 ||adult-puzzles.com^
+||poki.com^
+||emolingo.games^
+||poki.io^
+
