@@ -16,5 +16,3 @@
 ||poki.com^
 ||emolingo.games^
 ||poki.io^
-||taobao.com^
-||alibabadns.com^
