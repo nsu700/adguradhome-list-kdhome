@@ -25,3 +25,5 @@
 ||evowars.io^
 ||deadshot.io^
 ||baidu.com^
+||minefun.io^
+||miniblox.io^
