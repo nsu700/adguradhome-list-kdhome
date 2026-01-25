@@ -36,3 +36,29 @@
 ||ant.games^
 ||game.chronodivide.com^
 ||playgama.com^
+
+! --- Minecraft Java Auth & Skins ---
+||mojang.com^
+||minecraft.net^
+||minecraft-services.net^
+
+! --- Minecraft Bedrock Featured Servers ---
+||hivebedrock.network^
+||lbsg.net^
+||cubecraft.net^
+||inpvp.net^
+||galaxite.net^
+||pixelparadise.gg^
+
+! --- Minecraft Realms & Marketplace ---
+||mco.minecraft.net^
+||realms.minecraft.net^
+||marketplace.minecraft.net^
+||cdn.minecraft.net^
+
+! --- New Game Blocks (Browser & Strategy) ---
+||yccgame.net^
+||ant.games^
+||game.chronodivide.com^
+||playgama.com^
+
