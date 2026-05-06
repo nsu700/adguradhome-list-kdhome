@@ -61,4 +61,4 @@
 ||ant.games^
 ||game.chronodivide.com^
 ||playgama.com^
-
+||poki.com^
