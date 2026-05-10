@@ -1,5 +1,5 @@
 ! Title: Block game list for kdhome
-! Date: 2026-01-04
+! Date: 2026-05-04
 
 ||cargames.com^
 ||yad.com^
@@ -62,3 +62,4 @@
 ||game.chronodivide.com^
 ||playgama.com^
 ||poki.com^
+||crazygames.com^
