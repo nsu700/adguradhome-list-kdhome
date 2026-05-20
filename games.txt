@@ -63,3 +63,5 @@
 ||playgama.com^
 ||poki.com^
 ||crazygames.com^
+
+||croxyproxy.com^
